@@ -13,3 +13,12 @@
   height: 100vh;
   background-color: #303841;
 }
+.contactLinks a {
+  font-size: 80px;
+  color: white;
+  margin-left: 20px;
+}
+.contactLinks a:hover {
+  color: black;
+  font-size: 90px;
+}
